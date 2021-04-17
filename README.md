@@ -1,2 +1,2 @@
 # Facial-Recognition
-Python implementation using lib’s face recognition algorithms
+Python implementation using dlib’s face recognition algorithms
